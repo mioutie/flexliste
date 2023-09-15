@@ -1,0 +1,45 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+ul{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+li{
+    list-style: none;
+    height: 50vh;
+    color: antiquewhite;
+    width: 250px;
+    
+    
+}
+.a{
+    background-color: blue;
+}
+.b{
+    background-color: aqua;
+}
+.c{
+    background-color: rgb(120, 201, 82);
+}
+.d{
+    background-color: rgb(169, 223, 181);
+}
+.e{
+    background-color: rgb(255, 0, 179);
+}
+p{
+    background-color: brown;
+    position:fixed;
+}
+h1{
+    background-color: blue;
+    position:relative
+    ;
+}
